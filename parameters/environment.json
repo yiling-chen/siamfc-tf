@@ -1,5 +1,5 @@
 {
-	"root_dataset": "data",
-	"root_pretrained": "pretrained",
+	"root_dataset": "/mnt/Data-1/Projects/trackers/siamfc-tf/data",
+	"root_pretrained": "/mnt/Data-1/Projects/trackers/siamfc-tf/pretrained",
 	"root_parameters": "parameters"
 }
